@@ -1,0 +1,16 @@
+name: ovos-solver-BM25-plugin
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/94573382-8d80-4285-83e1-aa50a2f627cf
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/DASTOVEK/ovos-solver-BM25-plugin
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
